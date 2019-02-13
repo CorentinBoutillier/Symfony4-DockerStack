@@ -1,4 +1,4 @@
-# Stack Docker Symfony 3 
+# Stack Docker Symfony 4 
 
 ## PHP / NGINX / MySql / Phpmyadmin
 
