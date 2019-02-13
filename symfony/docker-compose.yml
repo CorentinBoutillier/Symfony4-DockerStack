@@ -14,6 +14,8 @@ services:
       - "traefik.port=80"
     volumes:
       - ./html:/var/www/html
+    env_file:
+      - html/.env
     depends_on:
       - cb-symfony-php
     links:
